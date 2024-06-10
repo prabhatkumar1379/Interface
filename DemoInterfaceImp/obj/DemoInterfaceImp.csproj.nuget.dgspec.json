@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\2025\\DotNetCore_QNA\\InterfaceDemo\\DemoInterfaceImp\\DemoInterfaceImp.csproj": {}
+    "C:\\Users\\prabhat.kumar\\OneDrive - JD SPORTS FASHION PLC\\Desktop\\2025\\Github\\Interface\\DemoInterfaceImp\\DemoInterfaceImp.csproj": {}
   },
   "projects": {
-    "C:\\2025\\DotNetCore_QNA\\InterfaceDemo\\DemoInterfaceImp\\DemoInterfaceImp.csproj": {
+    "C:\\Users\\prabhat.kumar\\OneDrive - JD SPORTS FASHION PLC\\Desktop\\2025\\Github\\Interface\\DemoInterfaceImp\\DemoInterfaceImp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\2025\\DotNetCore_QNA\\InterfaceDemo\\DemoInterfaceImp\\DemoInterfaceImp.csproj",
+        "projectUniqueName": "C:\\Users\\prabhat.kumar\\OneDrive - JD SPORTS FASHION PLC\\Desktop\\2025\\Github\\Interface\\DemoInterfaceImp\\DemoInterfaceImp.csproj",
         "projectName": "DemoInterfaceImp",
-        "projectPath": "C:\\2025\\DotNetCore_QNA\\InterfaceDemo\\DemoInterfaceImp\\DemoInterfaceImp.csproj",
+        "projectPath": "C:\\Users\\prabhat.kumar\\OneDrive - JD SPORTS FASHION PLC\\Desktop\\2025\\Github\\Interface\\DemoInterfaceImp\\DemoInterfaceImp.csproj",
         "packagesPath": "C:\\Users\\prabhat.kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\2025\\DotNetCore_QNA\\InterfaceDemo\\DemoInterfaceImp\\obj\\",
+        "outputPath": "C:\\Users\\prabhat.kumar\\OneDrive - JD SPORTS FASHION PLC\\Desktop\\2025\\Github\\Interface\\DemoInterfaceImp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabhat.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,17 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
