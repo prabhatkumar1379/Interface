@@ -2,7 +2,6 @@
 c#Interface
 
 <h3>Q.1>Interface does ot have the implimentation it only has the method signature then why do we need this?</h3>
-<h4>public interface ISpeaker</h4>
  <p>internal interface IPaymentMode</p>
    <span>
     <p>{</p> 
