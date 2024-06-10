@@ -1,0 +1,15 @@
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\bin\Debug\net7.0\DemoInterFace.exe
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\bin\Debug\net7.0\DemoInterFace.deps.json
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\bin\Debug\net7.0\DemoInterFace.runtimeconfig.json
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\bin\Debug\net7.0\DemoInterFace.dll
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\bin\Debug\net7.0\DemoInterFace.pdb
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.csproj.AssemblyReference.cache
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.AssemblyInfoInputs.cache
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.AssemblyInfo.cs
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.csproj.CoreCompileInputs.cache
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.dll
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\refint\DemoInterFace.dll
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.pdb
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\DemoInterFace.genruntimeconfig.cache
+C:\2025\DotNetCore_QNA\InterfaceDemo\DemoInterFace\obj\Debug\net7.0\ref\DemoInterFace.dll
