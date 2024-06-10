@@ -24,3 +24,106 @@ Interfaces contribute to creating designs that support testability. They make co
   - [PhonePay.cs](#fluentpos)
   - [Program.cs](#fluentpos)
 <img src="https://github.com/prabhatkumar1379/Interface/blob/main/StaticFile/SolutionImg.PNG" alt="Constructor-in-C#-Types-img1" width="900" height="563" class="blend-mode">
+
+```
+namespace DemoInterFace
+{
+    internal class CreaditCardPayment
+    {
+        public void MakePayment()
+        {
+            Console.WriteLine("Creadit card payment activated . . ");
+        }
+    }
+}
+
+```
+```
+namespace DemoInterFace
+{
+    internal class DebitCardPayment
+    {
+        public void MakePayment()
+        {
+            Console.WriteLine("Debit  card payment activated . . ");
+        }
+    }
+}
+```
+
+```
+namespace DemoInterFace
+{
+    internal class GooglePay
+    {
+        // added one more pament
+        public void MakePayment()
+        {
+            Console.WriteLine("GooglePay  payment activated . . ");
+        }
+    }
+}
+```
+```
+namespace DemoInterFace
+{
+    internal class PaymentManager
+    {
+        private readonly CreaditCardPayment _creaditCard;
+        private readonly DebitCardPayment _debitCard;
+        private readonly GooglePay _googlePay;
+        private readonly PhonePay _phonePay;
+        public PaymentManager(CreaditCardPayment creaditCard, DebitCardPayment debitCard ,GooglePay googlePay, PhonePay phonePay)
+        {
+            _creaditCard = creaditCard;
+            _debitCard = debitCard;
+            _googlePay = googlePay;
+            _phonePay = phonePay;
+
+        }
+        public void MakePament()
+        {
+            _creaditCard.MakePayment();
+            _debitCard.MakePayment();
+            _googlePay.MakePayment();
+            _phonePay.MakePayment();
+        }
+    }
+}
+```
+
+
+```
+namespace DemoInterFace
+{
+    internal class PhonePay
+    {
+        public void MakePayment()
+        {
+            Console.WriteLine("PhonePay payment activated . . ");
+        }
+    }
+}
+```
+
+
+```
+namespace DemoInterFace
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            CreaditCardPayment creaditCardPayment = new CreaditCardPayment();
+            DebitCardPayment debitCardPayment = new DebitCardPayment();
+            GooglePay googlePay= new GooglePay();   
+            PhonePay phonePay = new PhonePay();
+
+            PaymentManager paymentManager = new PaymentManager(creaditCardPayment, debitCardPayment, googlePay, phonePay);
+            paymentManager.MakePament();
+            Console.ReadLine();  
+
+        }
+    }
+}
+```
