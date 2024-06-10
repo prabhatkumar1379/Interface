@@ -11,14 +11,9 @@ c#Interface
    </span>
 
 <p dir="auto">
-Ans:Interfaces are use to build application that are flexible basically it helps us to achieve loose coupling there by components can be replaced with alternative
-implimenttations interface are the reasons why we are able to write flexible applications using design patterns and solid principles interface helps to 
-add new changes easily it means you can design the applications in a way that it welcomes changes without breaking it helps us in creating an application that you 
-can extend easily without modifying its original code base you can enhance its functionality with new plugins or modules the stability of your application 
-lot to do with good design interface helps you to create a design that supports testability i believe that it greatly helps us in reading the code as well 
-to understand what the class does you do not need to go to the detail looking at the interface you can mostly figure out at high level what the code does as
-you will come to know interface is an abstraction and helps to focus on higher-level functionality it basically defines the what and  the class deriving from it defines 
-the how.
+Interfaces are used to build flexible applications by helping us achieve loose coupling, allowing components to be replaced with alternative implementations. Interfaces are essential for writing flexible applications using design patterns and SOLID principles. They make it easier to incorporate new changes, meaning you can design applications to accommodate changes without breaking them. This approach helps create applications that can be easily extended without modifying the original codebase. You can enhance functionality with new plugins or modules, and the stability of your application greatly depends on good design.
+
+Interfaces contribute to creating designs that support testability. They make code easier to read and understand, as you don't need to delve into details to grasp what a class does. By looking at the interface, you can generally figure out the high-level purpose of the code. An interface is an abstraction that helps focus on higher-level functionality, defining the "what," while the class deriving from it defines the "how."
 </p>
 # Project without using Interface
 
