@@ -11,7 +11,14 @@ c#Interface
    </span>
 
 <p dir="auto">
-ANs: Interfaces are used to build flexible applications by promoting loose coupling, which allows components to be easily replaced with alternative implementations. They enable us to write adaptable applications using design patterns and SOLID principles. Interfaces make it easy to add new features and changes without breaking the existing code, allowing applications to be extended with new plugins or modules. Good interface design enhances the stability and testability of applications. It also improves code readability, as interfaces provide a high-level understanding of what a class does without needing to delve into the details. Essentially, interfaces define "what" a class should do, while the class itself defines "how" it does it.
+Ans:Interfaces are use to build application that are flexible basically it helps us to achieve loose coupling there by components can be replaced with alternative
+implimenttations interface are the reasons why we are able to write flexible applications using design patterns and solid principles interface helps to 
+add new changes easily it means you can design the applications in a way that it welcomes changes without breaking it helps us in creating an application that you 
+can extend easily without modifying its original code base you can enhance its functionality with new plugins or modules the stability of your application 
+lot to do with good design interface helps you to create a design that supports testability i believe that it greatly helps us in reading the code as well 
+to understand what the class does you do not need to go to the detail looking at the interface you can mostly figure out at high level what the code does as
+you will come to know interface is an abstraction and helps to focus on higher-level functionality it basically defines the what and  the class deriving from it defines 
+the how.
 </p>
 # Project without using Interface
 
