@@ -12,7 +12,6 @@ ANs: Interfaces are used to build flexible applications by promoting loose coupl
 </p>
 # Project without using Interface
 
-- [.NET Microservices Boilerplate](#net-microservices-boilerplate)
 - [DemoWithOutInterFace](#table-of-contents)
   - [CreaditCardPayment.cs](#goals)
   - [DebitCardPayment.cs](#goals)
@@ -20,14 +19,3 @@ ANs: Interfaces are used to build flexible applications by promoting loose coupl
   - [PaymentManager.cs](#goals)
   - [PhonePay.cs](#fluentpos)
   - [Program.cs](#fluentpos)
-  - [How to Run ?](#how-to-run-)
-    - [Tye](#tye)
-    - [Docker \& Docker-Compose](#docker--docker-compose)
-  - [Technologies \& Libraries](#technologies--libraries)
-  - [Documentation](#documentation)
-  - [Changelogs](#changelogs)
-  - [Community](#community)
-  - [License](#license)
-  - [Support ⭐](#support-)
-  - [Code Contributors](#code-contributors)
-  - [Financial Contributors](#financial-contributors)
