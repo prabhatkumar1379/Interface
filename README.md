@@ -22,3 +22,4 @@ ANs: Interfaces are used to build flexible applications by promoting loose coupl
   - [PaymentManager.cs](#goals)
   - [PhonePay.cs](#fluentpos)
   - [Program.cs](#fluentpos)
+<img src="https://github.com/prabhatkumar1379/Interface/blob/main/StaticFile/SolutionImg.PNG" alt="Constructor-in-C#-Types-img1" width="900" height="563" class="blend-mode">
